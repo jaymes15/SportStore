@@ -16,3 +16,14 @@ C:\Users\TOMI\source\repos\SportStore\obj\Debug\netcoreapp3.1\SportStore.Assembl
 C:\Users\TOMI\source\repos\SportStore\obj\Debug\netcoreapp3.1\SportStore.RazorTargetAssemblyInfo.cache
 C:\Users\TOMI\source\repos\SportStore\obj\Debug\netcoreapp3.1\SportStore.dll
 C:\Users\TOMI\source\repos\SportStore\obj\Debug\netcoreapp3.1\SportStore.pdb
+C:\Users\TOMI\source\repos\SportStore\bin\Debug\netcoreapp3.1\SportStore.Views.dll
+C:\Users\TOMI\source\repos\SportStore\bin\Debug\netcoreapp3.1\SportStore.Views.pdb
+C:\Users\TOMI\source\repos\SportStore\obj\Debug\netcoreapp3.1\SportStore.RazorAssemblyInfo.cache
+C:\Users\TOMI\source\repos\SportStore\obj\Debug\netcoreapp3.1\SportStore.RazorAssemblyInfo.cs
+C:\Users\TOMI\source\repos\SportStore\obj\Debug\netcoreapp3.1\SportStore.TagHelpers.input.cache
+C:\Users\TOMI\source\repos\SportStore\obj\Debug\netcoreapp3.1\SportStore.TagHelpers.output.cache
+C:\Users\TOMI\source\repos\SportStore\obj\Debug\netcoreapp3.1\SportStore.RazorCoreGenerate.cache
+C:\Users\TOMI\source\repos\SportStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\TOMI\source\repos\SportStore\obj\Debug\netcoreapp3.1\SportStore.RazorTargetAssemblyInfo.cs
+C:\Users\TOMI\source\repos\SportStore\obj\Debug\netcoreapp3.1\SportStore.Views.pdb
+C:\Users\TOMI\source\repos\SportStore\obj\Debug\netcoreapp3.1\SportStore.csproj.CopyComplete
