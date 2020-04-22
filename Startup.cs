@@ -28,7 +28,7 @@ namespace SportStore
             services.AddDbContext<ApplicationDbContext>(options => options
                  .UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
-            services.AddTransient<IProductRepository, FakeProductRepository>();
+            services.AddTransient<IProductRepository, EFProductRepository>();
 
         }
 
