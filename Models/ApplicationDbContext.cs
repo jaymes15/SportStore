@@ -11,6 +11,6 @@ namespace SportStore.Models
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         { }
 
-        public DbSet<Product> Porducts { get; set; }
+        public DbSet<Product> Products { get; set; }
     }
 }
