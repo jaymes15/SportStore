@@ -39,7 +39,7 @@ namespace SportStore.Migrations
 
                     b.HasKey("ProductID");
 
-                    b.ToTable("Porducts");
+                    b.ToTable("Products");
                 });
 #pragma warning restore 612, 618
         }

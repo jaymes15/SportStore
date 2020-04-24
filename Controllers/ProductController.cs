@@ -16,9 +16,9 @@ namespace SportStore.Controllers
             repository = repo;
         }
 
-        public ViewResult List() { 
-
-            return View(repository.Products);
+        public ViewResult List() {
+            Console.WriteLine(repository.Products.Count());
+            return View(repository.Products) ;
         }
     }
 }
